@@ -1,0 +1,7 @@
+{
+  "name": "智能天气助手 (Smart Weather)",
+  "description": "一款基于 Gemini 的智能天气查询应用，支持查询全球各地的本周预报、当月趋势及年度气候数据，并提供可视化图表分析。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
